@@ -1,2 +1,2 @@
-module Project1 {
+module string123 {
 }
