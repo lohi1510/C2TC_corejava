@@ -1,4 +1,4 @@
-package inhpol; // override
+package polymorphism;
 
 class Vehicle{
 	void engine()
@@ -28,5 +28,3 @@ public class Parent{
 		audi.engine();
 	}
 }
-
-

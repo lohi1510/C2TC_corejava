@@ -1,4 +1,4 @@
-package inhpol;
+package inhpol; //multiple
 
 
  interface Event {
